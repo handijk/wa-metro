@@ -10,7 +10,7 @@
   },
   "author": "zya",
   "dependencies": {
-    "webworkify-webpack": "^2.0.0"
+    "webworkify-webpack-dropin": "^1.1.9"
   },
   "devDependencies": {
     "browserify": "^9.0.8",
